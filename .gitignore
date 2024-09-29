@@ -1,0 +1,85 @@
+# Build Folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.userprefs
+
+# Logs
+*.log
+*.tlog
+
+# Visual Studio files
+.vscode/
+.vs/
+.idea/
+
+# Rider IDE files
+.idea/
+.idea_modules/
+.idea/workspace.xml
+.idea/.name
+.idea/*.iml
+.idea/modules.xml
+.idea/.name
+.idea/workspace.xml
+.idea/libraries
+.idea/shelf
+.idea/tasks.xml
+.idea/scopes/scope_settings.xml
+
+# Dotnet specific folders
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+.scaffolding/
+
+# Configuration
+appsettings.*.json
+appsettings.Development.json
+appsettings.Production.json
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Azure Functions local settings file
+local.settings.json
+
+# Generated files
+Generated/
+
+# Auto-generated files
+Generated_Code/
+TemporaryGeneratedFile_*.*
+
+# NuGet Packages
+*.nupkg
+.nuget/packages/
+.nuget/
+
+# Mac OS specific files
+.DS_Store
+*.plist
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Image file caches
+._*
+
+# Mac files
+*.DS_Store
+._*
+
+# Web files
+node_modules/
